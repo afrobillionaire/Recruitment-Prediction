@@ -1,5 +1,6 @@
 # Recruitment-Prediction
-Development of a model to predict the success or failure of an application. 
+In this project we developped a Machine Learning models to predict to success or failure of an application to a job.
+Language : FR
 
 The dataset has 11 columns:
 - date - date of the application
